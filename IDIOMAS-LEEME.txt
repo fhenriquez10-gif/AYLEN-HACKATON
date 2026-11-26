@@ -1,0 +1,3 @@
+AYLEN v9 — Español / English
+
+Abre AYLEN-v9.html. El idioma se elige a la derecha de Descargas o dentro de Más en celular. Los créditos y las ayudas están traducidos; los textos originales de las licencias se conservan. Para editar, usa la carpeta completa e index.html. Los fondos NASA GIBS necesitan internet y el modo local sigue disponible.

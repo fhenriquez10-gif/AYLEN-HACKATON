@@ -1,0 +1,11 @@
+{
+  "archivos_intactos_ciencia_datos_mapa": 312,
+  "registros_catalogo": 378,
+  "exportacion_febrero_2023": {
+    "filas": 62,
+    "valores_identicos_al_csv": true
+  },
+  "titulo": "AYLEN · UFRO Makers",
+  "csv_original_sha256": "15f45aaeddea9a5904d19ab9944f0ff249966eb826c67da26f15c5139bbcbb29",
+  "cambios": "Sustitución de catálogo y adaptación de sus filtros/fichas/exportaciones a campos disponibles; título de pestaña sin versión."
+}

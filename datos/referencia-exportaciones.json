@@ -1,0 +1,12 @@
+{
+  "archivo_referencia": "focos-firms.csv",
+  "url": "https://drive.google.com/file/d/16KXLw3SHvbIQ0Gr35YAE9iCfg5UlYlC9/view",
+  "carpeta": "atlas-araucania-17-a-23-enero-2024",
+  "uso": "Solo esquema de columnas; no se añadieron los registros del atlas al visor",
+  "columnas": 29,
+  "campos_no_disponibles": [
+    "pasada",
+    "id_pasada",
+    "url_fuente"
+  ]
+}

@@ -1,0 +1,19 @@
+/* Explanations and date warning, without changing the scientific interface. */
+#map-reading-open{display:block;pointer-events:auto;margin-top:8px;font-size:11px;padding:6px 9px}
+#map-reading-dialog{width:min(620px,94vw);height:auto;max-height:80dvh;overflow:auto}
+#map-reading-dialog .dialog-head{gap:12px}
+#map-reading-title{font-size:17px}
+.reading-content{padding:4px 22px 20px;font-size:14px;line-height:1.8}
+#timeline>#date-warning{position:sticky;bottom:0;z-index:2;background:#132331;padding:3px 0;flex-basis:100%;width:100%;margin:0;color:#f2dbac;font-size:11px;line-height:1.4;overflow-wrap:anywhere}
+body.time-closed #timeline>#date-warning{display:block}
+#catalog-public-notice{font-size:12px;line-height:1.65}
+@media(min-width:601px){
+ body.time-closed #timeline{height:84px}
+ body.time-closed #workspace,body.internal-tools.time-closed #workspace{height:calc(100dvh - var(--nav-height,66px) - 84px)}
+}
+@media(max-width:600px){
+ #timeline>#date-warning{font-size:10px}
+ #map-reading-dialog .dialog-head{padding:10px 12px}
+ #map-reading-title{font-size:15px}
+ .reading-content{padding:0 16px 14px;font-size:13px}
+}

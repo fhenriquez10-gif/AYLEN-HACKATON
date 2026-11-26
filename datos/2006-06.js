@@ -1,0 +1,1 @@
+window.NASA_DATA["2006-06"]=[];

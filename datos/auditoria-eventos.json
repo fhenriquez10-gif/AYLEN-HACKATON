@@ -1,0 +1,37 @@
+{
+  "archivo": "incendios_magnitud_la_araucania_2000_2025.csv",
+  "columnas": [
+    "id",
+    "temporada",
+    "nombre_incendio",
+    "region",
+    "provincia",
+    "comuna",
+    "fecha_inicio",
+    "fecha_termino",
+    "duracion_dias",
+    "lat",
+    "lon",
+    "georef_conaf",
+    "superficie_total_ha",
+    "plantaciones_ha",
+    "vegetacion_natural_ha",
+    "agricola_ha",
+    "desechos_ha",
+    "tipo_cifra",
+    "fuente",
+    "url_fuente"
+  ],
+  "sha256": "15f45aaeddea9a5904d19ab9944f0ff249966eb826c67da26f15c5139bbcbb29",
+  "fecha_integracion": "2026-11-15",
+  "registros": 378,
+  "con_coordenadas": 233,
+  "sin_coordenadas": 145,
+  "tipos_cifra": {
+    "oficial": 371,
+    "preliminar": 6,
+    "final (Contraloría)": 1
+  },
+  "url": "https://www.conaf.cl/centro-documental/ocurrencia-y-dano-de-incendios-de-magnitud-1985-2023/",
+  "alcance": "CSV aportado por el equipo: 371 registros citan el archivo de CONAF; 7 registros de 2025 citan otras fuentes. Se conserva la procedencia y el tipo de cifra por fila. No se inventan datos ausentes ni se certifica la transcripción del CSV contra todas las hojas originales."
+}
